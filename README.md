@@ -82,7 +82,7 @@ console.log('hello');
     - [x] item
 - [x] item
 - [x] item
-- [] item
+- [x] item
 
 ### live Link
 http://www.studywithanis.com
